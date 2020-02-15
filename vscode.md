@@ -14,6 +14,12 @@
 ### [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 > A customizable extension for colorizing matching brackets
 
+### [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+> Highlight web colors in your editor
+
+### [Color Manager](https://marketplace.visualstudio.com/items?itemName=RoyAction.color-manager)
+> color picker and color palette
+
 ## Developing
 
 ### [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
